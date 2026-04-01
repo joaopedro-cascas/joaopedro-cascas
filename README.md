@@ -16,7 +16,7 @@
   <br />
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,spring,mysql,postgres,py" />
+    <img src="https://skillicons.dev/icons?i=java,c,mysql,py" />
   </p>
 
   <br />
