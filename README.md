@@ -1,16 +1,55 @@
-## Hi there 👋
+# 💻 Joao Pedro Vieira Inacio
+### Software Developer | Computer Science Student
 
-<!--
-**joaopedro-cascas/joaopedro-cascas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div align="center">
 
-Here are some ideas to get you started:
+  <h1>Hey 👋 I am  Joao Pedro Vieira Inacio</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <br />
+
+  <p align="center">
+    Me chamo  Joao Pedro Vieira Inacio, tenho 19 anos e sou natural de Goiás. Atualmente, estou cursando Ciência da Computação na PUC-GO, focando em desenvolvimento de software e tecnologias back-end. Sou apaixonado por resolver problemas através do código e estou sempre em busca de novos desafios.
+  </p>
+
+  <br />
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,c,spring,mysql,postgres,py" />
+  </p>
+
+  <br />
+  <hr /> <br />
+
+  <h2>Contact me</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/joaopedro-cascas/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+    </a>
+    <a href="https://x.com/cascastop" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
+    </a>
+    <a href="mailto:joaopedrovi1504@gmail.com">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+    </a>
+  </p>
+
+  <br />
+  <hr />
+  <br />
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mths-machado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </p>
+
+  <br />
+
+  <h3>My Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
