@@ -10,7 +10,7 @@
   <br />
 
   <p align="center">
-    Me chamo  Joao Pedro Vieira Inacio, tenho 19 anos e sou natural de Goiás. Atualmente, estou cursando Ciência da Computação na PUC-GO, focando em desenvolvimento de software e tecnologias back-end. Sou apaixonado por resolver problemas através do código e estou sempre em busca de novos desafios.
+    Me chamo  Joao Pedro Vieira Inacio, tenho 20 anos e sou natural de Goiás. Atualmente, estou cursando Ciência da Computação na PUC-GO, focando em desenvolvimento de software e tecnologias back-end. Sou apaixonado por resolver problemas através do código e estou sempre em busca de novos desafios.
   </p>
 
   <br />
